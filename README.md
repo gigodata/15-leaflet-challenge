@@ -17,7 +17,7 @@ The [USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) is int
 
 #### Code:
 - This exercise was completed with the assistance of tutorial staff.
-- The page has been deployed to Github Pages.
+- The page has been deployed to [Github Pages](https://gigodata.github.io/projects/usgs_earthquakes/index.html) to see results.
 
 ---
 
